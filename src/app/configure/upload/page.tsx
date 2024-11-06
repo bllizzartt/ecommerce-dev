@@ -51,6 +51,7 @@ const Page = () => {
                 <Loader2 className="animate-spin h-6 w-6 text-zinc-500 mb-2" />
               ) : (
                 <Image className="h-6 w-6 text-zinc-500 mb-2" />
+                <p>hey</p>
               )}
             </div>
           )}
